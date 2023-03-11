@@ -3,7 +3,7 @@
     "logo": "https://telegra.ph/file/1caf90d4f9644173944d5.jpg",
     "description": "Zaid music allow you to stream music trought the telegram voice chat feature.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/Harshpanditxd/ZEBRA-MUSIC",
+    "repository": "https://github.com/Recordu/ZEBRA-MUSIC",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
